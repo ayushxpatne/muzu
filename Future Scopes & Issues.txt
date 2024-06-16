@@ -1,0 +1,44 @@
+Issues:
+
+#1
+Not able to group by date or month:
+we used list view builder to build list using the ExpenseModel class.
+to implement the grouping, we need to use something called GroupView, for which we need the data to be in JSON 
+or List, and for our usage, we are converting it ExpenseModel Objects, because i learnt it that way.
+To change this it will take a lot of time, as i would have to re implement the logic.
+FUTURE Scope : add GroupView
+
+#2
+The Regression model is not self learning:
+We trained the model on data from feb 2023 to feb 2024. It is not self updating yet.
+
+For this i need to write a dedicated flask app, in a structured form, as of now it is scattered.
+
+#3
+The current expenses are not being updated for the AI,
+it can only give monthly analysis and predictions as of now. Monthly analysis is being implemented.
+we can also add categorical analysis along with it. check if it is in line with the usual spending patterns.
+
+#4
+The chatbot is being run locally, in future we will connect it diagloflow. 
+
+#5
+For simplicity we have limited this to debit, need to implement credit debit
+here we can then add the functionality to give user reminder if he has lent some money or his earning to spend 
+ratio
+
+#6
+Adding analysis of the Title and notes & auto-categorisation for this dataset we cannot since the data is AI generated.
+Analysis can be done using NLTK, this would allow us to automatically classify and categorise the expenses.
+
+TODO:
+make the llm model for bot
+make the chat screen
+
+so far i figured out how to integrate python and flutter, that is via flask
+
+make a bunch of manual pairs and reflections
+connect it with gpt api or anythin else which can paraphrase
+
+
+https://www.youtube.com/watch?v=O2L2Uv9pdDA
