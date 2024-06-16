@@ -1,7 +1,7 @@
 # muzu - An AI Enabled Expense Tracker
 
 ### Description:
-The *smth* Expense Tracker is a modern, cross-platform mobile application developed using Flutter, a versatile and powerful framework by Google. The application aims to provide users with a seamless and intuitive experience to track their expenses efficiently on both Android and iOS devices. The primary goal is to offer a feature-rich, visually appealing, and user-friendly platform for individuals and businesses to manage their financial expenses effectively.
+The *muzu* Expense Tracker is a modern, cross-platform mobile application developed using Flutter, a versatile and powerful framework by Google. The application aims to provide users with a seamless and intuitive experience to track their expenses efficiently on both Android and iOS devices. The primary goal is to offer a feature-rich, visually appealing, and user-friendly platform for individuals and businesses to manage their financial expenses effectively.
 
 ### Key Features:
 
